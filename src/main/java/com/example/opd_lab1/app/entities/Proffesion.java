@@ -1,4 +1,4 @@
-package com.example.opd_lab1.app;
+package com.example.opd_lab1.app.entities;
 
 
 
